@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-kingston",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "City of Kingston GIS — Kingston, Ontario (Canada) open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-13f4759f14762e1a7835bd1295927b0cb19974195abcad7c0eaa74510fa5b6a4",
-    "sourceCommit": "54bf7d1c06a0775508a65d0c388dd10ba75174c3"
+    "sourceHash": "v1-027d136eef995c2f82b789507e6eec8054f2148f9c45223bc8a56a7254707086",
+    "sourceCommit": "93c7d52ace03a2bb9aee5e6024f6858adab0dd04"
   }
 }
